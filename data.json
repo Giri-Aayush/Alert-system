@@ -1,0 +1,16 @@
+{
+  "thresholds": {
+    "highway": 4,
+    "city_center": 3,
+    "commercial": 2,
+    "residential": 1
+  },
+  "lastAlertTimes": {
+    "highway": "2023-12-17T00:00:00.000Z",
+    "city_center": "2023-12-17T00:00:00.000Z",
+    "commercial": "2023-12-17T00:00:00.000Z",
+    "residential": "2023-12-17T00:00:00.000Z"
+  },
+  "events": [],
+  "alerts": []
+}
